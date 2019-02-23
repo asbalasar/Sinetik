@@ -1,0 +1,265 @@
+﻿@{
+    ViewBag.Title = "Anasayfa";
+}
+
+
+
+<div class="container">
+
+    *<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">
+                    @Resources.Home.anasayfa
+                </h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ol>
+
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="~/img/batman.jpg" alt="Batman">
+                            <h3>&nbsp; Batman gişede büyüledi!</h3>
+                        </div>
+
+                        <div class="item">
+                            <img src="~/img/bit.jpg" alt="Back in Time">
+                            <h3>&nbsp; Back in Time severler zirvesi düzenleniyor!</h3>
+
+
+                        </div>
+
+                        <div class="item">
+                            <img src="~/img/sicario.jpg" alt="Sicario">
+                            <h3>&nbsp; Sicario gerilime yeni bir boyut kazandırdı!</h3>
+
+                        </div>
+
+                        <div class="item">
+                            <img src="~/img/theavengers.jpg" alt="The Avengers">
+                            <h3>&nbsp; Süper kahramanlar birleşti dünya şoka girdi!</h3>
+
+                        </div>
+                    </div>
+
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+           
+             <div class="col-md-4">
+                
+
+
+
+                    <h2>Box Office </h2>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Film Adı</th>
+                                <th>Hasılat</th>
+                                <th>İzleyici Sayısı</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>The Avengers</td>
+                                <td>$436513</td>
+                                <td>656546</td>
+                            </tr>
+                            <tr>
+                                <td>Spider-Man</td>
+                                <td>$336513</td>
+                                <td>556546</td>
+                            </tr>
+                            <tr>
+                                <td>Batman</td>
+                                <td>$236513</td>
+                                <td>456546</td>
+                            </tr>
+                            <tr>
+                                <td>Sicario</td>
+                                <td>$136513</td>
+                                <td>356546</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+
+
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="well text-center">
+                    @Resources.Home.tavsiye
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indexmrrobot.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">Mr Robot</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">15 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indexbatman.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">Batman</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">12 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indexdexter.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">Dexter</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">31 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indeximmigrant.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">The Immigrant</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">6 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indexbattleship.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">Battleship</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">18 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="~/img/indexsicario.jpg" alt="">
+                    <div class="caption">
+                        <h4>
+                            <a href="#">Sicario</a>
+                        </h4>
+                        <p>Film hakkkında çeşitli bilgiler burada yer alacak.</p>
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right">18 görüş</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+            </div>
+
+
+ 
+

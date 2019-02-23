@@ -1,0 +1,298 @@
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\ApplicationInsights.config
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\WebApplication1.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\WebApplication1.pdb
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.resources
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.en.resources
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Resources\Home.resx
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Resources\Home.en.resx
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Resources\Home.en.Designer.cs
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\Resources\Home.Designer.cs
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\bin\en\WebApplication1.resources.dll
+C:\Users\lenovo\Desktop\sinematikoc\Sinetik\WebApplication1\obj\Debug\en\WebApplication1.resources.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\ApplicationInsights.config
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.exe
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csi.exe
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.resx
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.en.resx
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.en.Designer.cs
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.Designer.cs
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\WebApplication1.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\WebApplication1.pdb
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\en\WebApplication1.resources.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\EntityFramework.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.resources
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.en.resources
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\en\WebApplication1.resources.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\AhmetSaid\Desktop\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\ApplicationInsights.config
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.exe
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csi.exe
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.resx
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.en.resx
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.en.Designer.cs
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Resources\Home.Designer.cs
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\WebApplication1.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\WebApplication1.pdb
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\en\WebApplication1.resources.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\EntityFramework.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.resources
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.Resources.Home.en.resources
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.cache
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\en\WebApplication1.resources.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\AhmetSaid\Desktop\SAÜ\7.YARIYIL\asbalasar-sinetik-4266b631a89a\asbalasar-sinetik-4266b631a89a\Sinetik\WebApplication1\obj\Debug\WebApplication1.pdb

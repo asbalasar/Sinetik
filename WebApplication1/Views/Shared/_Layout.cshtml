@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='custom.css' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type=”text/javascript” src=”http://maps.googleapis.com/maps/api/js?sensor =false”></script>
+    <title>@ViewBag.Title - Sinetik</title>
+  
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+ 
+
+</head>
+<body>
+
+ 
+    <nav class="navbar navbar-default navbar-fixed-top">
+       <div class="container" >
+           
+            
+            <div class="navbar-header">
+                <a class="navbar-brand" href='@Url.Action("Index", "Home")'>
+                    <img alt="Sinetik" src="~/img/logok.png" >
+                </a>
+            </div>
+
+
+
+            <ul class="nav navbar-nav">
+
+
+                <li><a href='@Url.Action("Index", "Home")'>@Resources.Home.anasayfa</a></li>
+                <li><a href='@Url.Action("Vizyondakiler", "Home")'>@Resources.Home.vizyon</a></li>
+                <li><a href='@Url.Action("Eniyi", "Home")'>@Resources.Home.eniyiler</a></li>
+                <li><a href='@Url.Action("Contact", "Home")'>@Resources.Home.iletisim</a></li>
+
+
+            </ul>
+           <ul>
+              
+
+               <form class="navbar-form navbar-right">
+                   <div class="input-group">
+
+                       <input type="text" class="form-control" placeholder="Search">
+
+
+                   </div>
+
+               </form>
+
+
+           </ul>
+           <var class="dropdown">
+               <button class="btn btn-info dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                   @Resources.Home.tr
+                   <span class="caret"></span>
+               </button>
+               <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                   <li>@Html.ActionLink("TR", "Change", "Home", new { LanguageAbbrevation = "tr" }, null)</li>
+                   <li>@Html.ActionLink("EN", "Change", "Home", new { LanguageAbbrevation = "en" }, null)</li>
+               </ul>
+           </var>
+          
+           @Html.Partial("_LoginPartial")
+
+
+
+
+            
+
+        </div>
+
+    </nav>
+
+
+</body>
+</html>
+
+
+
+<div class="container">
+    @RenderBody();
+
+</div>
+
+
+<div class="container footer">
+  
+    <div class=" container ">
+        <p> @DateTime.Now.Year - ©Created by Ahmet Said BALASAR </p>
+
+        <div align="right">
+            
+            &nbsp; &nbsp; &nbsp; &nbsp; <i style="font-size:24px" class="fa">&#xf09a;</i>
+            &nbsp; &nbsp; &nbsp; &nbsp; <i style="font-size:24px" class="fa">&#xf099;</i>
+            &nbsp; &nbsp; &nbsp; &nbsp; <i style="font-size:24px" class="fa">&#xf16d;</i>
+
+        </div>
+                                   
+                
+     </div>
+   
+</div>
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+
+</body>
+</html>
